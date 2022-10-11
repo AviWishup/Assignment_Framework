@@ -1,0 +1,36 @@
+2022-09-22 00:43:48,414 [INFO ] [org.frame.test.LoggerTraining.main(LoggerTraining.java:33)] [LoggerTraining] info 
+2022-09-22 00:43:48,415 [WARN ] [org.frame.test.LoggerTraining.main(LoggerTraining.java:34)] [LoggerTraining] W 
+2022-09-22 00:43:48,416 [FATAL] [org.frame.test.LoggerTraining.main(LoggerTraining.java:35)] [LoggerTraining] F 
+2022-10-04 20:05:44,110 [INFO ] [org.frame.test.LoggerTraining.main(LoggerTraining.java:33)] [LoggerTraining] info 
+2022-10-04 20:05:44,112 [WARN ] [org.frame.test.LoggerTraining.main(LoggerTraining.java:34)] [LoggerTraining] W 
+2022-10-04 20:05:44,112 [FATAL] [org.frame.test.LoggerTraining.main(LoggerTraining.java:35)] [LoggerTraining] F 
+2022-10-04 21:51:46,812 [INFO ] [org.frame.pages.Login_Page.enterUserName(Login_Page.java:27)] [Login_Page] username entered 
+2022-10-04 21:51:46,990 [INFO ] [org.frame.pages.Login_Page.enterPassword(Login_Page.java:34)] [Login_Page] Password Entered 
+2022-10-04 21:51:52,841 [INFO ] [org.frame.pages.Login_Page.clickLogin(Login_Page.java:39)] [Login_Page] click on the login 
+2022-10-04 21:52:22,622 [INFO ] [org.frame.pages.Login_Page.enterUserName(Login_Page.java:27)] [Login_Page] username entered 
+2022-10-04 21:52:22,788 [INFO ] [org.frame.pages.Login_Page.enterPassword(Login_Page.java:34)] [Login_Page] Password Entered 
+2022-10-04 21:52:28,558 [INFO ] [org.frame.pages.Login_Page.clickLogin(Login_Page.java:39)] [Login_Page] click on the login 
+2022-10-04 21:52:50,220 [INFO ] [org.frame.pages.Login_Page.enterUserName(Login_Page.java:27)] [Login_Page] username entered 
+2022-10-04 21:52:50,386 [INFO ] [org.frame.pages.Login_Page.enterPassword(Login_Page.java:34)] [Login_Page] Password Entered 
+2022-10-04 21:52:56,147 [INFO ] [org.frame.pages.Login_Page.clickLogin(Login_Page.java:39)] [Login_Page] click on the login 
+2022-10-04 23:07:58,664 [INFO ] [org.frame.pages.Login_Page.enterUserName(Login_Page.java:27)] [Login_Page] username entered 
+2022-10-04 23:07:58,921 [INFO ] [org.frame.pages.Login_Page.enterPassword(Login_Page.java:34)] [Login_Page] Password Entered 
+2022-10-04 23:08:05,101 [INFO ] [org.frame.pages.Login_Page.clickLogin(Login_Page.java:39)] [Login_Page] click on the login 
+2022-10-04 23:08:26,875 [INFO ] [org.frame.pages.Login_Page.enterUserName(Login_Page.java:27)] [Login_Page] username entered 
+2022-10-04 23:08:27,044 [INFO ] [org.frame.pages.Login_Page.enterPassword(Login_Page.java:34)] [Login_Page] Password Entered 
+2022-10-04 23:08:32,769 [INFO ] [org.frame.pages.Login_Page.clickLogin(Login_Page.java:39)] [Login_Page] click on the login 
+2022-10-04 23:08:54,304 [INFO ] [org.frame.pages.Login_Page.enterUserName(Login_Page.java:27)] [Login_Page] username entered 
+2022-10-04 23:08:54,485 [INFO ] [org.frame.pages.Login_Page.enterPassword(Login_Page.java:34)] [Login_Page] Password Entered 
+2022-10-04 23:09:00,058 [INFO ] [org.frame.pages.Login_Page.clickLogin(Login_Page.java:39)] [Login_Page] click on the login 
+2022-10-11 20:56:50,311 [INFO ] [org.makeMyTrip.pages.SearchPage.clickOnMulticity(SearchPage.java:55)] [SearchPage] click on the MultiCity 
+2022-10-11 20:56:51,008 [INFO ] [org.makeMyTrip.pages.Multi_City_Page.select_FromAnotherCity(Multi_City_Page.java:41)] [Multi_City_Page] search from city 
+2022-10-11 20:56:51,483 [INFO ] [org.makeMyTrip.pages.Multi_City_Page.selectFromCity(Multi_City_Page.java:46)] [Multi_City_Page] select from city 
+2022-10-11 20:56:52,021 [INFO ] [org.makeMyTrip.pages.Multi_City_Page.select_ToAnotherCity(Multi_City_Page.java:51)] [Multi_City_Page] search to city 
+2022-10-11 20:56:52,283 [INFO ] [org.makeMyTrip.pages.Multi_City_Page.selectToCity(Multi_City_Page.java:56)] [Multi_City_Page] select to city 
+2022-10-11 20:56:52,765 [INFO ] [org.makeMyTrip.pages.Multi_City_Page.select_ToAnotherCity1(Multi_City_Page.java:61)] [Multi_City_Page] Search another To City 
+2022-10-11 20:59:13,205 [INFO ] [org.makeMyTrip.pages.SearchPage.clickOnMulticity(SearchPage.java:55)] [SearchPage] click on the MultiCity 
+2022-10-11 20:59:13,841 [INFO ] [org.makeMyTrip.pages.Multi_City_Page.select_FromAnotherCity(Multi_City_Page.java:41)] [Multi_City_Page] search from city 
+2022-10-11 20:59:14,238 [INFO ] [org.makeMyTrip.pages.Multi_City_Page.selectFromCity(Multi_City_Page.java:46)] [Multi_City_Page] select from city 
+2022-10-11 20:59:14,725 [INFO ] [org.makeMyTrip.pages.Multi_City_Page.select_ToAnotherCity(Multi_City_Page.java:51)] [Multi_City_Page] search to city 
+2022-10-11 20:59:15,068 [INFO ] [org.makeMyTrip.pages.Multi_City_Page.selectToCity(Multi_City_Page.java:56)] [Multi_City_Page] select to city 
+2022-10-11 20:59:15,459 [INFO ] [org.makeMyTrip.pages.Multi_City_Page.select_ToAnotherCity1(Multi_City_Page.java:61)] [Multi_City_Page] Search another To City 
